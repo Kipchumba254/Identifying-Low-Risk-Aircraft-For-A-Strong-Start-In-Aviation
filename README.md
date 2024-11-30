@@ -31,7 +31,7 @@ This dataset includes attributes such as:
 ## Visualizations
 - A bar graph showing models with the highest and lowest accidents.
 - A pie chart showing the breakdown of accidents by weather.
-- A scatter plot showing the relationship between the number of engines and fatal injuries.[View the presentation](https://github.com/Kipchumba254/Identifying-Low-Risk-Aircraft-For-A-Strong-Start-In-Aviation/blob/main/presentation.pdf)
+- A scatter plot showing the relationship between the number of engines and fatal injuries.[View the presentation](https://github.com/Kipchumba254/Identifying-Low-Risk-Aircraft-For-A-Strong-Start-In-Aviation/blob/main/presentation.pdf.pdf)
 
 
 
