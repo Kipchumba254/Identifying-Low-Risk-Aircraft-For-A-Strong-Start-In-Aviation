@@ -40,7 +40,6 @@ This dataset includes attributes such as:
 
 ### Summary of Conclusions Including Three Relevant Findings
 - Aircraft models with fewer engines are associated with higher risks in adverse weather.
-- Accidents majorly occur during landing and takeoff.
 - Aircraft models with single engines should be avoided in places with harsh weather conditions.
 
 
